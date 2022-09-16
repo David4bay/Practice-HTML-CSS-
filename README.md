@@ -1,2 +1,2 @@
 # Practice-HTML-CSS-
-This is where i practice html and css.
+This is where I practice html and css styling.
