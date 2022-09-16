@@ -1,0 +1,15 @@
+body {
+    background-color: #9a69e1;
+    color: #47429d;
+}
+
+form {
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+
+fieldset:first-child {
+    background-color: #f7b7f3;
+}
