@@ -13,3 +13,6 @@ form {
 fieldset:first-child {
     background-color: #f7b7f3;
 }
+
+textarea {
+    resize: none;
