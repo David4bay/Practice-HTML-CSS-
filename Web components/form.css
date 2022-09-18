@@ -1,8 +1,11 @@
+<!--body element-->
+
 body {
     background-color: #9a69e1;
     color: #47429d;
 }
 
+<!--form element-->
 form {
     display: flex;
     margin: 0 auto;
@@ -10,9 +13,11 @@ form {
     align-items: center;
 }
 
+<!--fieldset first-child-->
 fieldset:first-child {
     background-color: #f7b7f3;
 }
 
+<!--non resizable textarea-->
 textarea {
     resize: none;
